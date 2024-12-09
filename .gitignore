@@ -1,0 +1,13 @@
+# secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# environment
+.venv
+
+# temporary files
+**/*.pyc
+
+# macOS
+**/.DS_Store
